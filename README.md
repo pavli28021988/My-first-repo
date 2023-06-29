@@ -1,4 +1,6 @@
 # My-first-repo
+first repo based on my video-first steps with git and more and more that i want to know
+
 
 
 
