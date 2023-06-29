@@ -1,5 +1,9 @@
 # My-first-repo
 first repo based on my video-first steps with git
+
+
+
+
 basic commands(1)
      - git clone
      -git pull
